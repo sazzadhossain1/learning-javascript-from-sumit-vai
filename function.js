@@ -15,5 +15,3 @@ function myFunction(a, b) {
 
 const x = myFunction(2, 3);
 console.log(x);
-
-// <!-- 12 number ta ses -->
