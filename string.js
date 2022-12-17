@@ -26,4 +26,10 @@ console.log(spliteMethod1);
 console.log(spliteMethod2);
 console.log(spliteMethod3);
 console.log(spliteMethod4);
-// <!-- 16 number ta ses -->
+
+const string = "I lova Javascript";
+
+console.log(string.indexOf("Javascript"));
+
+const string1 = "I lova Javascript Javascript";
+console.log(string.lastIndexOf("Javascript"));
