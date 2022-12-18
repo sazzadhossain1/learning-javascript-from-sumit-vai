@@ -11,4 +11,12 @@ for (let i = 0; i < fruits.length; i++) {
 fruits.forEach(function (f, i) {
   console.log(f);
 });
-// <!-- 20 number ta ses -->
+
+const persons = ["Sazzad", "Hossain"];
+
+persons.push("Tomal");
+console.log(persons);
+
+/////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////
+////////////////////////////////////////////////
